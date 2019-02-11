@@ -14,6 +14,8 @@ See [proceedings of AAAI 2019](https://aaai.org/Library/AAAI/aaai19contents.php)
 
 Poster: [PDF](poster.pdf)
 
+Video: [VIDEO](video.pdf)
+
 
 ## Code release
 Coming soon. Please inquiry by [email](mailto:alessandrog@idsia.ch)

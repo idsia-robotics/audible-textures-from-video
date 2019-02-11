@@ -14,7 +14,7 @@ See [proceedings of AAAI 2019](https://aaai.org/Library/AAAI/aaai19contents.php)
 
 Poster: [PDF](poster.pdf)
 
-Video: [VIDEO](video.pdf)
+Video: [VIDEO](video.mov)
 
 
 ## Code release

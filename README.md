@@ -16,7 +16,7 @@ See [proceedings of AAAI 2019](https://aaai.org/Library/AAAI/aaai19contents.php)
 
 Poster: [PDF](poster.pdf)
 
-Video: [VIDEO](video.mov)
+Video: [VIDEO](https://github.com/idsia-robotics/audible-textures-from-video/blob/master/video.mov?raw=true)
 
 
 ## Code release

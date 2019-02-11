@@ -10,7 +10,11 @@ The demo is interactive: a user points a mobile phone to different objects and h
 
 ## AAAI 2019 demo paper
 
-See [proceedings of AAAI 2019](https://aaai.org/Library/AAAI/aaai19contents.php)
+See [proceedings of AAAI 2019](https://aaai.org/Library/AAAI/aaai19contents.php) (not yet online)
+
+Poster: [PDF](poster.pdf)
+
 
 ## Code release
 Coming soon. Please inquiry by [email](mailto:alessandrog@idsia.ch)
+
